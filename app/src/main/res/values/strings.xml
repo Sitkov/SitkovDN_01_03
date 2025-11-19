@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SitkovDN_01_03</string>
+    <string name="reg">Регистрация</string>
+    <string name="vved_log_a_pass">Введите ваш логин и пароль</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="vhod">ВОЙТИ</string>
+    <string name="rasschet">Расчет площади</string>
+    <string name="vvedite_kol_metres">введите количество метров</string>
+    <string name="rasschitat">РАССЧИТАТЬ</string>
+    <string name="result">результат</string>
+    <string name="col_metres">количество метров</string>
+    <string name="reggistrecia">РЕГИСТРАЦИЯ</string>
+
+    <string-array name="apartments">
+        <item>1 - комнатная</item>
+        <item>2 - комнатная</item>
+        <item>3 - комнатная</item>
+        <item>Студия</item>
+    </string-array>
+</resources>
